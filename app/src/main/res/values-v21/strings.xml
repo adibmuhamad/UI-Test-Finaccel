@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Finaccel UI Test</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_pulsa">Pulsa</string>
+    <string name="txt_data_package">Data Package</string>
+    <string name="text_top_up">TOP UP</string>
+    <string name="text_mobile_number">Mobile number</string>
+    <string name="txt_nominal">Nominal:</string>
+    <string name="txt_dummy_nominal">nominal</string>
+    <string name="txt_loan_confirmation">Loan Confirmation</string>
+    <string name="txt_otp_alert">OTP is not needed for first transaction of the day \nthat is less than RP 200,000</string>
+    <string name="txt_payment_details">Payment Details</string>
+    <string name="txt_paket_data_indosat">Paket Data Indosat Freedom</string>
+    <string name="txt_paket_m">Paket M</string>
+    <string name="txt_default_price">Rp 0</string>
+    <string name="txt_pay_in_30_days">Pay in 30 days</string>
+    <string name="txt_admin_fee">Admin Fee</string>
+    <string name="txt_kredivo_pin">Kredivo PIN</string>
+    <string name="txt_pin">PIN</string>
+    <string name="txt_agreement">By continuing, I agree with <font fgcolor='#239cec'>loan agreement of Kredivo</font></string>
+    <string name="txt_pay">PAY</string>
+    <string name="txt_order_details">Order Details</string>
+    <string name="txt_status">Status</string>
+    <string name="txt_success">Success</string>
+    <string name="txt_order_id">Order ID</string>
+    <string name="txt_dummy_order_id">KB-8027de03</string>
+    <string name="txt_alert_invoice">Invoice has been emailed to you  Have problem? Email us at <font fgcolor='#239cec'>support@kredivo.com</font></string>
+    <string name="txt_merchant_promo">Merchant Promo</string>
+    <string name="txt_promos">Promos</string>
+    <string name="txt_promo_title">Discount 20% at Kedai Hape Original, \nMall Kota Kasablanka</string>
+    <string name="txt_valid_date">Valid Date</string>
+    <string name="txt_dummy_date">10 - 31 Januari 2019</string>
+    <string name="txt_voucher_code">Voucher Code</string>
+    <string name="txt_term_conditions"><![CDATA[Term & Conditions]]></string>
+    <string name="txt_bukalapak_coupon">BIRTHDAY9</string>
+    <string name="txt_copy">COPY</string>
+    <string name="txt_input_pin">Please Insert PIN First</string>
+</resources>

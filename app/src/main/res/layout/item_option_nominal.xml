@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/itemNominal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/colorWhite"
+        android:padding="19.2dp"
+        android:layout_marginTop="2dp"
+        android:baselineAligned="false"
+        tools:ignore="UselessParent"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/txtTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="12sp"
+                android:text="@string/txt_nominal"/>
+
+            <TextView
+                android:id="@+id/txtNominal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txt_dummy_nominal"
+                android:textSize="16sp"/>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnNominal"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:background="@color/colorPrimary"
+            android:text="@string/txt_dummy_nominal"
+            android:textColor="@color/colorWhite"
+            android:textSize="14sp"
+            android:textAllCaps="false"
+            android:textStyle="normal"
+            />
+
+    </LinearLayout>
+</LinearLayout>
